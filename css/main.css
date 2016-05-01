@@ -1,1 +1,55 @@
-/* Inserta tu código aqui */
+
+/* HEADER */
+.logo-header {
+	width: 60%;
+	padding: 2% 0;
+}
+
+/* NAVBAR*/
+.navbar-fcmc .navbar-nav > li > .a {
+  color: #0070c0;
+}
+.navbar-fcmc .navbar-nav > li > .b {
+  color: #c00808;
+}
+.navbar-fcmc .navbar-nav > li > .a:hover,
+.navbar-fcmc .navbar-nav > li > .a:focus {
+  color: #dfdfdf;
+  background-color: #0070c0;
+}
+.navbar-fcmc .navbar-nav > li > .b:hover,
+.navbar-fcmc .navbar-nav > li > .b:focus {
+  color: #dfdfdf;
+  background-color: #c00808;
+}
+.navbar-fcmc .navbar-toggle:hover,
+.navbar-fcmc .navbar-toggle:focus {
+  background-color: #ddd;
+}
+.navbar-fcmc .navbar-toggle .icon-bar {
+  background-color: #888;
+}
+.navbar-fcmc .navbar-collapse,
+.navbar-fcmc .navbar-form {
+  border-color: #e7e7e7;
+}
+.btn-fcmc { /* Boton del buscador*/
+	background: #c00808;
+}
+
+/* UTILIDADES */
+.bg-marron {
+  background: #c00808;
+}
+.bg-black {
+  background: #161616;
+}
+.bg-white {
+  background: #fbfbfb;
+}
+.text-black {
+  color: #161616;
+}
+.text-white {
+  color: #dfdfdf;
+}
