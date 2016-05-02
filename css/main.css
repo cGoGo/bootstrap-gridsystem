@@ -32,8 +32,9 @@
 .navbar-fcmc .navbar-form {
   border-color: #e7e7e7;
 }
-.btn-fcmc { /* Boton del buscador*/
-	background: #c00808;
+.inscribete { /* SECCION DE INSCRIPCION */
+  padding: 2%;
+  border-radius: 2%;
 }
 
 /* UTILIDADES */
@@ -49,6 +50,9 @@
 .bg-blue {
   background: #0070c0;
 }
+.bg-gray-m {
+  background: #848484;
+}
 .text-black {
   color: #161616;
 }
@@ -58,17 +62,29 @@
 .text-gray-m {
   color: #848484;
 }
+.text-marron {
+  color: #c00808;
+}
+.text-blue {
+  color: #0070c0;
+}
 .text-indent {
   text-indent: 20px;
 }
 .font-size-08 {
   font-size: 0.8em;
 }
+.font-size-450 {
+  font-size: 450%;
+}
 .inline-block {
   display: inline-block;
 }
 .mg-2 {
   margin: 2%;
+}
+.mg-t-b {
+  margin: 4% 0;
 }
 .pd-t-b {
   padding: 2% 0;
